@@ -1,5 +1,7 @@
 # Lenguaje de programación para L-Sistemas deterministas y probabilísticos usando Unity y Antlr4
 
+Desarrollado por Alejandro Martin Salcedo y David Antonio Garzón Avendaño
+
 Para ejecutar el compilador descargar la carpeta llamada L-system executable (Windows).
 
 Dentro de la carpeta ejecutar Compilers_Suffering.exe
